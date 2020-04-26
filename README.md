@@ -21,3 +21,11 @@ A shell script based image scaler for generating appropriatly scaled images for 
 ## To try later on..
 - [ ] Recursive functions
 - [ ] Parallelism
+
+---
+
+# Code included from 3rd parties
+
+| Organization/Project | License |
+| ---------- | ------- |
+| [github/gitignore](https://github.com/github/gitignore) | [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) |
