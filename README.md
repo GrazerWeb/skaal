@@ -6,6 +6,7 @@ A shell script based image scaler for generating appropriatly scaled images for 
 # Project TO DO's
 
 ## Project Initialization
+- [ ] Compare current .ignore with https://gitignore.io/
 - [ ] Create test directory tree and image files
 - [ ] Select a License for this project
 
@@ -24,7 +25,7 @@ A shell script based image scaler for generating appropriatly scaled images for 
 
 ---
 
-# Code included from 3rd parties
+# Includes code from 3rd parties
 
 | Organization/Project | License |
 | ---------- | ------- |
