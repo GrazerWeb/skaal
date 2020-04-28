@@ -3,6 +3,25 @@
 A shell script based image scaler for generating appropriatly scaled images for iOS or Android Apps
 
 
+# Introduction | Guide
+
+## Clone & Run
+
+1. Clone the project to jour local machine and `cd` into that directory
+
+1. Make the script executable `chmod +x skaal.sh`
+1. Run it `./skaal.sh`
+
+## Ad hoc development notes
+
+A sample directory of test files to be processed should be provided under `./testFiles`
+
+We can not assume:
+- what the dir tree structure is like 
+- what the image file types are
+- where the image files are located within the tree (e.g. leafs of not)
+
+
 # Project TO DO's
 
 ## Project Initialization
