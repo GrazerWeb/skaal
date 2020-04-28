@@ -2,8 +2,9 @@
 # Specific
 
 /testFiles
-
 /out
+
+*.scratch
 
 *.env
 *.log
